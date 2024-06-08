@@ -5,7 +5,7 @@ from sklearn.metrics import mean_squared_error
 import matplotlib.pyplot as plt
 
 # Langkah 1: Persiapan Data
-data = pd.read_csv('C:\\Users\\nanda\\OneDrive\\Desktop\\New folder')
+data = pd.read_csv('Student_Perfomance.csv')
 
 # Melihat lima baris pertama data
 print(data.head())
